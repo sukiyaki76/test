@@ -1,0 +1,12 @@
+body a {
+  text-align: center;
+  color: #FFF;
+  background: #000;
+  opacity: 1;
+  border-top: 1px solid #000;
+}
+
+body a:after {
+  content: "aaa";
+}
+/*# sourceMappingURL=test.css.map */
